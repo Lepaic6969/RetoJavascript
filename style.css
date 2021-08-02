@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(175, 167, 167);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    height: 100vh;
+}
+/*
+.empty {
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+}
+
+.fill {
+    width: 150px;
+}
+.fill img {
+    width: 100px;
+    height: 100px;
+}
+
+.hold {
+    border: ;
+}
+
+.hovered {
+    :dashed ;
+}
+
+@media (max-width: 800px) {
+} 
+*/
+
+.dropzone {
+    width: 200px;
+    height: 20px;
+    background: blueviolet;
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+}
+
+.dropzone img {
+    width: 150px;
+    height: 150px;
+    margin: 0px;
+}
